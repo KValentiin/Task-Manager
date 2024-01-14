@@ -53,7 +53,7 @@ Generate Reports:&nbsp;&nbsp;Generate reports on task and user statistics.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## :fax: 
+## 🌐 Contact
 
 Have questions or suggestions? Feel free to reach out:
 
