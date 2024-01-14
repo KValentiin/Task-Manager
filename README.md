@@ -64,5 +64,9 @@ Have questions or suggestions? Feel free to reach out:
 ## :pray: Acknowledgments
 
 A special thanks to the developers of [Colorama](https://pypi.org/project/colorama/), a Python library that makes terminal text styling and coloring easy. The vibrant colors in this Minesweeper game are powered by Colorama, enhancing the overall user experience.
-
 Colorama: © 2011 Jonathan Hartley, licensed under the BSD 3-Clause License. Check out the Colorama documentation for more information on this fantastic library.
+
+
+A special thanks to the developers of [Click](https://click.palletsprojects.com/), a Python library for creating beautiful command-line interfaces. The clean and intuitive CLI of this task manager is powered by Click, making it easy for users to interact with the application.
+Click: © 2011-2021 The Pallets Project, licensed under the BSD 3-Clause License. Check out the Click documentation for more information on this fantastic library.
+
