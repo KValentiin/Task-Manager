@@ -14,16 +14,22 @@ Reports: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 1. Clone the repository.
 
-```bash
-git clone https://github.com/YourUsername/task-manager.git
-cd task-manager
-```
+  ```bash
+  git clone https://github.com/YourUsername/task-manager.git
+  cd task-manager
+  ```
 
-2. Run the Task Manager application.
+2. Install requirements.
 
-```bash
-python task_manager.py
-```
+   ```
+   pip install -r requirements.txt
+   ```
+
+4. Run the Task Manager application.
+
+  ```bash
+  python task_manager.py
+  ```
 
 Follow the on-screen instructions to log in, manage tasks, and utilize the various features of the Task Manager.
 
