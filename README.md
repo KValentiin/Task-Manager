@@ -15,7 +15,7 @@ Reports: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 1. Clone the repository.
 
   ```bash
-  git clone https://github.com/YourUsername/task-manager.git
+  git clone https://github.com/KValentiin/task-manager.git
   cd task-manager
   ```
 
